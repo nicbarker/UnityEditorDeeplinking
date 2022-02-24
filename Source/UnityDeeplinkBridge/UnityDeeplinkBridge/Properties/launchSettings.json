@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnityDeeplinkBridge": {
+      "commandName": "Project",
+      "commandLineArgs": "unitydeeplink://OpenPath/Assets/OldDogsAssets/Buffs/BUFF_WORKSHOP.asset"
+    }
+  }
+}

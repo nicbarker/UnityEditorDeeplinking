@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\bin\Release\net48\UnityDeeplinkBridge.exe.config
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\bin\Release\net48\UnityDeeplinkBridge.exe
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\bin\Release\net48\UnityDeeplinkBridge.pdb
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridgeCore.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridgeCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridgeCore.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridgeCore.AssemblyInfo.cs
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridgeCore.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridge.exe
+C:\Users\alexa\source\repos\UnityDeeplinkBridge\UnityDeeplinkBridge\obj\Release\net48\UnityDeeplinkBridge.pdb
